@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961236668674",
+    "project_id": "tp-arq-mov",
+    "storage_bucket": "tp-arq-mov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961236668674:android:a4ea37c57201d63d8bf21b",
+        "android_client_info": {
+          "package_name": "com.example.tp1_arqmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961236668674-h6vobnbavgg9bo1tn5pej1f7v843fktm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tp1_arqmov",
+            "certificate_hash": "7ed0da24d2fffd08c6c15bfa36db05529bc3ef28"
+          }
+        },
+        {
+          "client_id": "961236668674-g218p6hhv60ottmjhsqde7a7nvu7f3gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjqC3PLEacbbjJLzxnuM31uwqm1lwJpvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961236668674-g218p6hhv60ottmjhsqde7a7nvu7f3gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
